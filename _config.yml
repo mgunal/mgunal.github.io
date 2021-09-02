@@ -1,17 +1,17 @@
 # Setup
-title:               'Metin Gokhan Unal'
+title:               Lanyon
 tagline:             'A Jekyll theme'
-description:         'Metin's Personal Website'
-url:                 https://mgunal.github.io
+description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Metin Gokhan Unal
-  url:               https://twitter.com/mgunal
-  email:             mgunal@me.com
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
 # Gems
 plugins:
