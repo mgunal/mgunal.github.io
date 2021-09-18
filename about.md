@@ -1,29 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm a curious technical guy interested in Computer Architecture, Computer Vision, Imaging, Machine learning, AR/VR and many other things.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm currently working as a Computer Vision Architect in Arm Cambridge. My goal is to ensure that Arm hardware and software tools perform well on computer vision workloads.
+Previously I worked as a team lead in R-Class [CPU](https://www.arm.com/products/silicon-ip-cpu/cortex-r/cortex-r82)s
+designed AR/VR Accelerator hardware for [Display Processor](https://www.arm.com/company/news/2019/05/making-virtual-more-of-a-reality)s, 
+worked on several [ISP](https://www.arm.com/products/silicon-ip-multimedia/image-signal-processor/mali-c71ae)s.
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I'm always up to learn new things and I like to work on cutting edge technology projects.
+I'm curious about how computer hardware works, how hardware and software talk to each other. Why our forefathers made certain design decisions and if they are still relevant to today's world. 
+I frequently catch myself thinking about what can be the solution for the next-generation technological challenges. 
 
 Thanks for reading!
